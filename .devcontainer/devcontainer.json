@@ -1,5 +1,5 @@
 {
-    "name": "solution-template",
+    "name": "starter-template",
     "build": {
         "context": ".",
         "dockerfile": "Dockerfile"
